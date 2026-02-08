@@ -86,8 +86,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Phanuch"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine, my Princess? 💝" // Browser tab title
+valentineName: "Raquel"                    // Your Valentine's name
+pageTitle: "Will You Be My Valentine minha Pestinha Boa? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -109,7 +109,7 @@ questions: {
         nextBtn: "Next 🐰💗"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine, my Princess...?",      // Final question
+        text: "Will you be my Valentine momoooo...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
@@ -124,8 +124,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person in the universe...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "Yay! I'm the luckiest dumbass in the universe and beyond...",     // Celebration title
+    message: "18h be ready for a day to remember...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️🐰💕"                        // Celebration emojis
 }
 
@@ -146,15 +146,6 @@ animations: {
     heartExplosionSize: 1.5         // Final heart explosion size (1.2-2.0)
 }
 
-// Music Settings
-music: {
-    enabled: true, // Music feature is enabled
-    autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "https://res.cloudinary.com/dlm52loxm/video/upload/v1769604574/Taylor_Swift_-_Love_Story_ujfonc.mp3", // Paste your music URL here
-    startText: "🎵 Play Music", // Button text to start music
-    stopText: "🔇 Stop Music", // Button text to stop music
-    volume: 0.7 // Volume level (0.0 to 1.0)
-}
 ```
 
 ### 3. Adding Your Own Background Music 🎵
